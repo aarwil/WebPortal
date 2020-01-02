@@ -1,5 +1,5 @@
 <MTMarkdownOptions output='html4'>
-  <h1 style="text-align: center;>Web Portal</h1>
+  <h1 style="text-align: center;">Web Portal</h1>
 </MTMarkdownOptions>
 
 
