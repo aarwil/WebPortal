@@ -106,5 +106,6 @@ C/: xampp htdocs foldername
 
 
 
-
-**Congratulations!! That&#39;s your new web portal!!!**
+<MTMarkdownOptions output='html4'>
+  <h1 align="center">Congratulations!! That's your new web portal!!!</h1>
+</MTMarkdownOptions>
