@@ -1,7 +1,6 @@
 **A Web Portal**
 
 | Portal Name        | **Employee Management System** |
-| --- | --- |
 | Role        | Admin |
 | Features        | Add, Edit, Delete, View, Bulk upload data and Upload picture |
 | Software Language | MySQL, PHP, JavaScript and HTML |
